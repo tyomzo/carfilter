@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tyomzo/carfilter/issues"
   },
-  "homepage": "https://github.com/tyomzo/carfilter#readme"
+  "homepage": "https://github.com/tyomzo/carfilter#readme",
+  "dependencies": {
+    "@types/phantomjs": "^1.9.29",
+    "phantomjs-prebuilt": "^2.1.16"
+  }
 }
